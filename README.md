@@ -53,6 +53,7 @@ I am a Front-End Developer passionate about bridging the gap between engineering
 ### 🛠️ Backend, CMS & Tools
 
 <img src="https://img.shields.io/badge/wordpress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" height="30"/>
+<img src="https://img.shields.io/badge/strapi-%234945FF.svg?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" height="30"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" height="30"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" height="30"/>
