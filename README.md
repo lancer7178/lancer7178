@@ -31,6 +31,9 @@ I am a Front-End Developer passionate about bridging the gap between engineering
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="30"/>
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" height="30"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="30"/>
+<img src="https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" height="30"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" height="30"/>
 
 </div>
@@ -40,8 +43,8 @@ I am a Front-End Developer passionate about bridging the gap between engineering
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lancer7178&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancer7178&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 <br/>
