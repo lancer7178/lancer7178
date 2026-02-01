@@ -21,7 +21,7 @@
 I am a Front-End Developer passionate about bridging the gap between engineering and design.
 
 - 🎓 Senior **Business Information Systems (BIS)** student at New Cairo Academy (Class of 2026).
-- 💼 Currently working as a **Front-End Developer** at **Bowben Marketing**.
+- 💼 Currently working as a **Front-End Developer** at **Bowmen Marketing**.
 - 🌱 Expanding my skillset by learning **Backend Development**.
 - 💻 Specializing in building modern, responsive web applications using **React** and **Next.js (App Router)**.
 
