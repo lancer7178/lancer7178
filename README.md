@@ -18,7 +18,7 @@
 
 ### 🌌 Mission Log (About Me)
 
-Transmitting live from 10 of Ramadan City, I am a Front-End Developer and UI/UX Designer focused on pushing the boundaries of web experiences. Having just graduated with a degree in Business Information Systems (Class of 2026), I bridge the gap between complex engineering and visually stunning, user-centric interfaces. 
+Transmitting live from 10th of Ramadan City, I am a Front-End Developer and UI/UX Designer focused on pushing the boundaries of web experiences. Having just graduated with a degree in Business Information Systems (Class of 2026), I bridge the gap between complex engineering and visually stunning, user-centric interfaces. 
 
 *   🚀 **Current Orbit:** Co-founder at **Light Orbits**, orchestrating innovative digital platforms and marketing solutions.
 *   🧠 **Deep Space Exploration:** Actively diving into advanced software architecture, system design, and design patterns to build highly scalable applications.
